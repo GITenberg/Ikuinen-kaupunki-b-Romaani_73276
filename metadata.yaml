@@ -18,6 +18,9 @@ contributor:
     wikipedia:
     - https://fi.wikipedia.org/wiki/Aino_Malmberg
     - https://en.wikipedia.org/wiki/Aino_Malmberg
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Caine, Hall, Sir
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/591
     wikipedia: https://en.wikipedia.org/wiki/Hall_Caine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73276#Ikuinen-kaupunki-b-Romaani
 gutenberg_issued: '2024-03-28'
 gutenberg_type: Text
 identifiers:
